@@ -83,9 +83,70 @@ $arrayGoogle = [
             font-size: 27px;
             margin-top: 0px;
         }
+        .header{
+            width: 100%;
+            height: 5vh;
+            border-bottom: 1px solid lightgray;
+            margin-bottom: 100px;
+            position: relative;
+        }
+        .float{
+            float: left;
+            list-style: none;
+            margin-right: 30px;
+            font-size: 18px;
+            color: gray;
+        }
+        .blu{
+            color: blue;
+            border-bottom: 3px solid blue;
+            padding-bottom: 9px;
+        }
+        .bollino{
+            background-color: green;
+            width: max-content;
+            padding: 12px;
+            color: white;
+            font-size: 16px;
+            border-radius: 30px;
+            position: absolute;
+            top: 10px;
+            right: 20px;
+        }
+        .position{
+            position: absolute;
+            top: -40px;
+            left: 40px;
+        }
+        .uno{
+            font-size: 26px;
+            color: red;
+        }
+        .due{
+            font-size: 23px;
+            color: blue;
+        }
     </style>
 </head>
 <body>
+
+<div class="header">
+    <div class="position">
+        <span class="uno">GOOGLE</span>
+        <span class="due">Privacy e termini</span>
+    </div>
+        <ul >
+            <li class="float">Introduzione</li>
+            <li class="float">Norme sulla privacy</li>
+            <li class="float">Termini di servizio</li>
+            <li class="float">Tecnologie</li>
+            <li class="blu float">Domande frequenti</li>
+        </ul>
+
+</div>
+<div class="bollino">
+    <span>A</span>
+</div>
 
 
 <div class="tutto">
