@@ -16,7 +16,7 @@ $arrayGoogle = [
         'testo2' => '<p>Siamo costantemente al lavoro per garantire un\'elevata sicurezza, proteggere la tua privacy e rendere Google ancora più efficace ed efficiente per te. Spendiamo centinaia di milioni di dollari ogni anno per la sicurezza e ci avvaliamo di esperti di fama mondiale in materia di sicurezza dei dati per mantenere le tue informazioni al sicuro. Abbiamo inoltre sviluppato strumenti per la sicurezza e la privacy di facile utilizzo come Google Dashboard, la verifica in due passaggi e Impostazioni annunci. Così, per quanto riguarda le informazioni che condividi con Google, hai il massimo controllo.</p>',
         'testo3' => '<p>Puoi leggere ulteriori informazioni sulla sicurezza online, incluso come proteggere te e la tua famiglia online, nel <a href="">Centro Google per la sicurezza online</a>.</p>',
         'testo4' => '<p>Scopri quali misure adottiamo per garantire protezione e sicurezza alle tue informazioni personali, lasciando a te il controllo.</p>',
-    ],
+    ], 
     'parte3' => [
         'titolo' => '<h2>Perché il mio account è associato a un paese?</h2>',
         'testo1' => '<p>Il tuo account è associato a un paese (o territorio) nei Termini di servizio per poter stabilire due cose:</p>',
